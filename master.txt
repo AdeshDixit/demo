@@ -1,2 +1,5 @@
 Hi this file updated from privat branch
+<<<<<<< HEAD
 Adesh Dixit
+hi
+>>>>>>> public1
