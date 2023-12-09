@@ -1,6 +1,0 @@
-Hi this file edeted by develop branch
-
-Now this time file edeted by develop2 branch
-
-This file Checksd by Test branch
-
