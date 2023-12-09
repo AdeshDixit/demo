@@ -1,3 +1,0 @@
-Hi adding some code line from feature1 branch
-
-This time adding some line from feture2 branch 
