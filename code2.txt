@@ -1,1 +1,0 @@
-Hi in this file addesd some line from feature2 branch
